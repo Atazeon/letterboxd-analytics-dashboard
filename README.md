@@ -24,5 +24,23 @@ If you want to run this pipeline locally with your own Letterboxd data, follow t
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/YOUR_USERNAME/letterboxd-analytics-dashboard.git](https://github.com/YOUR_USERNAME/letterboxd-analytics-dashboard.git)
+git clone [https://github.com/atazeon/letterboxd-analytics-dashboard.git](https://github.com/atazeon/letterboxd-analytics-dashboard.git)
 cd letterboxd-analytics-dashboard
+```
+
+**2. Install dependencies**
+`pip install pandas streamlit tmdbv3api python-dotenv`
+
+**3. Setup your environment variables**
+Create a `.env` file in the root directory and add your TMDB API key:
+`TMDB_API_KEY="your_api_key_here"`
+
+**4. Add your data**
+Export your data from Letterboxd and place the `diary.csv` file into the root folder. 
+
+**5. Run the data pipeline**
+This script will clean your data, ping the TMDB API, and generate a `final_enriched_diary.csv` file. 
+`python api_test.py`
+
+**6. Launch the dashboard**
+`streamlit run dashboard.py`
