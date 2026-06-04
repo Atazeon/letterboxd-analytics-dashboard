@@ -1,26 +1,35 @@
 Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date,Runtime,Genres,Poster_URL,TMDB_Rating,Language
-2026-01-27,Scream,1996,https://boxd.it/cR3HrD,4.0,,,2026-01-26,112,"Crime, Horror, Mystery",https://image.tmdb.org/t/p/w500/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg,7.43,en
-2026-01-28,Scream 2,1997,https://boxd.it/cRYCyN,3.5,,,2026-01-27,120,"Horror, Mystery",https://image.tmdb.org/t/p/w500/dORlVasiaDkJXTqt9bdH7nFNs6C.jpg,6.514,en
-2026-01-29,Annihilation,2018,https://boxd.it/cSSF2n,3.5,,,2026-01-28,115,"Science Fiction, Horror",https://image.tmdb.org/t/p/w500/4YRplSk6BhH6PRuE9gfyw9byUJ6.jpg,6.441,en
-2026-02-02,Iron Lung,2026,https://boxd.it/cX7zb5,2.0,,,2026-02-01,125,"Horror, Mystery, Science Fiction",https://image.tmdb.org/t/p/w500/sIwakdbMGS1krtgendTWpxTY9Hw.jpg,7.299,en
-2026-02-05,Send Help,2026,https://boxd.it/cZqT0n,3.5,,,2026-02-04,113,"Horror, Thriller, Comedy",https://image.tmdb.org/t/p/w500/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg,7.043,en
-2026-02-11,Zoolander,2001,https://boxd.it/d57dXt,5.0,,,2026-02-10,89,Comedy,https://image.tmdb.org/t/p/w500/qdrbSneHZjJG2Dj0hhBxzzAo4HB.jpg,6.221,en
-2026-02-12,Ferris Bueller's Day Off,1986,https://boxd.it/d5PCtL,4.0,,,2026-02-11,103,Comedy,https://image.tmdb.org/t/p/w500/9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg,7.57,en
+2026-05-15,Takopi's Original Sin,2025,https://boxd.it/emm0zT,5.0,,,2025-05-14,0,"Animation, Drama, Science Fiction, Fantasy",https://image.tmdb.org/t/p/w500/d8naDZPJ4NBlJW7SiiUrEAqDeSC.jpg,0.0,ja
+2026-01-27,Scream,1996,https://boxd.it/cR3HrD,4.0,,,2026-01-26,112,"Crime, Horror, Mystery",https://image.tmdb.org/t/p/w500/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg,7.429,en
+2026-01-28,Scream 2,1997,https://boxd.it/cRYCyN,3.5,,,2026-01-27,120,"Horror, Mystery",https://image.tmdb.org/t/p/w500/dORlVasiaDkJXTqt9bdH7nFNs6C.jpg,6.52,en
+2026-01-29,Annihilation,2018,https://boxd.it/cSSF2n,3.5,,,2026-01-28,115,"Science Fiction, Horror",https://image.tmdb.org/t/p/w500/4YRplSk6BhH6PRuE9gfyw9byUJ6.jpg,6.44,en
+2026-02-02,Iron Lung,2026,https://boxd.it/cX7zb5,2.0,,,2026-02-01,125,"Horror, Mystery, Science Fiction",https://image.tmdb.org/t/p/w500/sIwakdbMGS1krtgendTWpxTY9Hw.jpg,7.201,en
+2026-02-05,Send Help,2026,https://boxd.it/cZqT0n,3.5,,,2026-02-04,113,"Horror, Thriller, Comedy",https://image.tmdb.org/t/p/w500/zbJWVHOtj3ljBzWgL1P8pxP03Up.jpg,7.046,en
+2026-02-11,Zoolander,2001,https://boxd.it/d57dXt,5.0,,,2026-02-10,89,Comedy,https://image.tmdb.org/t/p/w500/qdrbSneHZjJG2Dj0hhBxzzAo4HB.jpg,6.226,en
+2026-02-12,Ferris Bueller's Day Off,1986,https://boxd.it/d5PCtL,4.0,,,2026-02-11,103,Comedy,https://image.tmdb.org/t/p/w500/9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg,7.6,en
 2026-02-15,Everyone Says I Love You,1996,https://boxd.it/d8nNqJ,2.0,,,2026-02-14,101,"Comedy, Romance",https://image.tmdb.org/t/p/w500/cFOZ4bNbWtnIIboc43M86yhwPBX.jpg,6.453,en
-2026-02-16,GOAT,2026,https://boxd.it/d9OnJN,4.5,,,2026-02-15,100,"Animation, Comedy, Family",https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg,8.02,en
-2026-02-19,GOAT,2026,https://boxd.it/dcgcXj,4.0,Yes,,2026-02-18,100,"Animation, Comedy, Family",https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg,8.02,en
-2026-02-26,How to Make a Killing,2026,https://boxd.it/diVZqf,3.5,,,2026-02-25,105,"Comedy, Thriller",https://image.tmdb.org/t/p/w500/vxMeKC7o5Gi8IHMi6lUgsdprTqv.jpg,7.082,en
-2026-03-17,Aaahh Belinda,1986,https://boxd.it/dy5mqb,4.0,,,2026-03-16,100,"Comedy, Fantasy, Thriller",https://image.tmdb.org/t/p/w500/bp3h7SZDI7KPw0jK0L6EwfMqzZC.jpg,7.475,tr
+2026-02-16,GOAT,2026,https://boxd.it/d9OnJN,4.5,,,2026-02-15,100,"Animation, Comedy, Family",https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg,8.119,en
+2026-02-19,GOAT,2026,https://boxd.it/dcgcXj,4.0,Yes,,2026-02-18,100,"Animation, Comedy, Family",https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg,8.119,en
+2026-02-26,How to Make a Killing,2026,https://boxd.it/diVZqf,3.5,,,2026-02-25,105,"Comedy, Thriller",https://image.tmdb.org/t/p/w500/vxMeKC7o5Gi8IHMi6lUgsdprTqv.jpg,7.075,en
+2026-03-17,Aaahh Belinda,1986,https://boxd.it/dy5mqb,4.0,,,2026-03-16,100,"Comedy, Fantasy, Thriller",https://image.tmdb.org/t/p/w500/bp3h7SZDI7KPw0jK0L6EwfMqzZC.jpg,7.5,tr
 2026-03-17,Oh Belinda,2023,https://boxd.it/dy5mUZ,0.5,,,2026-03-16,96,"Drama, Comedy, Fantasy",https://image.tmdb.org/t/p/w500/6MI2WO2ThKMz8LSdpxBvaIAt8FE.jpg,6.4,tr
-2026-03-17,The Truman Show,1998,https://boxd.it/dypMgr,4.5,,,2026-03-16,103,"Comedy, Drama",https://image.tmdb.org/t/p/w500/vuza0WqY239yBXOadKlGwJsZJFE.jpg,8.152,en
-2026-03-17,Marty Supreme,2025,https://boxd.it/dyEl73,4.0,,,2026-03-16,150,"Drama, Thriller",https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg,7.39,en
-2026-03-21,Hoppers,2026,https://boxd.it/dBStGF,4.0,,,2026-03-20,104,"Animation, Adventure, Comedy, Family, Science Fiction",https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg,7.955,en
-2026-03-24,10 Things I Hate About You,1999,https://boxd.it/dES1dx,5.0,,,2026-03-23,97,"Comedy, Romance, Drama",https://image.tmdb.org/t/p/w500/ujERk3aKABXU3NDXOAxEQYTHe9A.jpg,7.591,en
-2026-03-27,Reminders of Him,2026,https://boxd.it/dHhKaL,1.0,,,2026-03-26,114,"Romance, Drama",https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg,7.332,en
-2026-03-29,Norbit,2007,https://boxd.it/dInnJT,3.5,,,2026-03-28,102,Comedy,https://image.tmdb.org/t/p/w500/XcZ5NzygPp54csxCnzvQKuxFL2.jpg,5.667,en
-2026-04-07,Project Hail Mary,2026,https://boxd.it/dRWJvF,5.0,,,2026-04-06,157,"Science Fiction, Adventure",https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg,8.453,en
+2026-03-17,The Truman Show,1998,https://boxd.it/dypMgr,4.5,,,2026-03-16,103,"Comedy, Drama",https://image.tmdb.org/t/p/w500/vuza0WqY239yBXOadKlGwJsZJFE.jpg,8.153,en
+2026-03-17,Marty Supreme,2025,https://boxd.it/dyEl73,4.0,,,2026-03-16,150,"Drama, Thriller",https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg,7.391,en
+2026-03-21,Hoppers,2026,https://boxd.it/dBStGF,4.0,,,2026-03-20,104,"Adventure, Animation, Comedy, Family, Science Fiction",https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg,8.163,en
+2026-03-24,10 Things I Hate About You,1999,https://boxd.it/dES1dx,5.0,,,2026-03-23,97,"Comedy, Romance, Drama",https://image.tmdb.org/t/p/w500/ujERk3aKABXU3NDXOAxEQYTHe9A.jpg,7.593,en
+2026-03-27,Reminders of Him,2026,https://boxd.it/dHhKaL,1.0,,,2026-03-26,114,"Romance, Drama",https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg,7.636,en
+2026-03-29,Norbit,2007,https://boxd.it/dInnJT,3.5,,,2026-03-28,102,Comedy,https://image.tmdb.org/t/p/w500/XcZ5NzygPp54csxCnzvQKuxFL2.jpg,5.7,en
+2026-04-07,Project Hail Mary,2026,https://boxd.it/dRWJvF,5.0,,,2026-04-06,157,"Science Fiction, Adventure",https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg,8.656,en
 2026-04-14,Mulholland Drive,2001,https://boxd.it/dYafp5,4.0,,,2026-04-13,147,"Thriller, Drama, Mystery",https://image.tmdb.org/t/p/w500/x7A59t6ySylr1L7aubOQEA480vM.jpg,7.8,en
-2026-04-15,Akira,1988,https://boxd.it/dYD62p,4.0,,,2026-04-14,124,"Animation, Science Fiction, Action",https://image.tmdb.org/t/p/w500/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg,7.945,ja
-2026-04-18,The Super Mario Galaxy Movie,2026,https://boxd.it/e0F0Lb,3.0,,,2026-04-17,98,"Family, Comedy, Adventure, Fantasy, Animation",https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg,6.695,en
-2026-04-29,Lee Cronin's The Mummy,2026,https://boxd.it/e9YNMB,3.0,,,2026-04-28,133,"Horror, Mystery",https://image.tmdb.org/t/p/w500/lTQoEczVEnkuxHFEGgWYfJB98tL.jpg,6.7,en
-2026-05-04,Michael,2026,https://boxd.it/edSz8h,4.0,,,2026-05-03,128,"Music, Drama",https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg,7.547,en
+2026-04-15,Akira,1988,https://boxd.it/dYD62p,4.0,,,2026-04-14,124,"Animation, Science Fiction, Action",https://image.tmdb.org/t/p/w500/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg,7.943,ja
+2026-04-18,The Super Mario Galaxy Movie,2026,https://boxd.it/e0F0Lb,3.0,,,2026-04-17,98,"Family, Comedy, Adventure, Fantasy, Animation",https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg,8.116,en
+2026-04-29,Lee Cronin's The Mummy,2026,https://boxd.it/e9YNMB,3.0,,,2026-04-28,133,"Horror, Mystery",https://image.tmdb.org/t/p/w500/1q308iixueCU4pFtSYugNOevtNx.jpg,8.056,en
+2026-05-04,Michael,2026,https://boxd.it/edSz8h,4.0,,,2026-05-03,128,"Music, Drama",https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg,7.6,en
+2026-05-14,The Wild Robot,2024,https://boxd.it/em6MxT,4.0,,,2026-05-13,102,"Family, Animation, Science Fiction, Adventure",https://image.tmdb.org/t/p/w500/eG9lz41mJqsI4J6ubMtVqD26q2J.jpg,8.3,en
+2026-05-14,Scary Movie,2000,https://boxd.it/em6MXn,4.0,,,2026-05-13,88,Comedy,https://image.tmdb.org/t/p/w500/fVQFPRuw3yWXojYDJvA5EoFjUOY.jpg,6.4,en
+2026-05-14,Parasite,2019,https://boxd.it/em6N5r,5.0,,,2026-05-13,133,"Comedy, Thriller, Drama",https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg,8.5,ko
+2026-05-16,Mufasa: The Lion King,2024,https://boxd.it/en724x,3.5,,,2026-05-15,118,"Adventure, Family, Animation",https://image.tmdb.org/t/p/w500/jbOSUAWMGzGL1L4EaUF8K6zYFo7.jpg,7.313,en
+2026-05-28,Swapped,2026,https://boxd.it/exDJGD,3.0,,,2026-05-27,102,"Adventure, Animation, Family, Fantasy",https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg,8.968,en
+2026-05-31,Obsession,2025,https://boxd.it/eA8IeN,4.5,,,2026-05-30,108,"Horror, Thriller",https://image.tmdb.org/t/p/w500/6X4qFYBsG3bpWDG2XIKqr04kFJa.jpg,7.9,en
+2026-06-01,Despicable Me 4,2024,https://boxd.it/eB6CA9,2.5,,,2026-05-31,94,"Action, Animation, Comedy, Family, Science Fiction",https://image.tmdb.org/t/p/w500/wWba3TaojhK7NdycRhoQpsG0FaH.jpg,7.0,en
+2026-06-03,Gazelle,2025,https://boxd.it/eD1EJZ,4.5,,,2026-06-02,103,Drama,https://image.tmdb.org/t/p/w500/ngjiT2qJhzFqAsNdVRp1391bVE4.jpg,0.0,tr
