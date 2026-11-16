@@ -4,7 +4,6 @@ import pandas as pd
 st.set_page_config(page_title="My Letterboxd Dashboard", layout="wide")
 st.title("My Letterboxd Diary Analytics")
 
-@st.cache_data
 def load_data():
     df = pd.read_csv("final_enriched_diary.csv").dropna(subset=['Poster_URL'])
     if "Watched Date" in df.columns:
